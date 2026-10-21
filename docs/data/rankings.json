@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T07:49:44Z",
+  "generated_at": "2026-10-21T08:06:23Z",
   "origin": {
     "name": "Le Mans",
     "lat": 48.0061,
@@ -238,12 +238,12 @@
       "lon": 12.5683,
       "distance_km": 1200.6,
       "co2_kg_roundtrip": 360.2,
-      "avg_max_temp": 12.3,
+      "avg_max_temp": 12.4,
       "total_precip_mm": 27.8,
       "avg_sunshine_s": 13663.0,
-      "weather_score": 0.319,
+      "weather_score": 0.321,
       "co2_score": 0.648,
-      "final_score": 0.484
+      "final_score": 0.485
     },
     {
       "country": "Croatia",
