@@ -1,5 +1,7 @@
 # EU capitals dashboard: sustainable vacation ranking
 
+Dashboard link: https://ismail-achibat-td-tp-bi.github.io/TD1/
+
 Ranks the 27 EU capitals for a trip **next week from Le Mans** by weighing the
 7-day weather forecast ([Open-Meteo](https://open-meteo.com), no API key needed)
 50/50 against the round-trip flight CO₂.
